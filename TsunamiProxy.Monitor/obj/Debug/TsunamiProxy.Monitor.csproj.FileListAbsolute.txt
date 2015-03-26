@@ -1,0 +1,9 @@
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\TsunamiProxy.Monitor.exe.config
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\TsunamiProxy.Monitor.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\TsunamiProxy.Monitor.pdb
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\Newtonsoft.Json.dll
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\bin\Debug\Newtonsoft.Json.xml
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\obj\Debug\TsunamiProxy.Monitor.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Monitor\obj\Debug\TsunamiProxy.Monitor.pdb

@@ -1,0 +1,5 @@
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Learn.Task\bin\Debug\Learn.Task.exe.config
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Learn.Task\bin\Debug\Learn.Task.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Learn.Task\bin\Debug\Learn.Task.pdb
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Learn.Task\obj\Debug\Learn.Task.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Learn.Task\obj\Debug\Learn.Task.pdb

@@ -1,0 +1,10 @@
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\TsunamiProxy.Server.exe.config
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\TsunamiProxy.Server.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\TsunamiProxy.Server.pdb
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\Newtonsoft.Json.dll
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\bin\Debug\Newtonsoft.Json.xml
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\obj\Debug\TsunamiProxy.Server.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\obj\Debug\TsunamiProxy.Server.pdb
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\TsunamiProxy.Server\obj\Debug\TsunamiProxy.Server.csprojResolveAssemblyReference.cache

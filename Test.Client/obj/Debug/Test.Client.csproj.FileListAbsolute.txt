@@ -1,0 +1,6 @@
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\bin\Debug\Test.Client.exe.config
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\bin\Debug\Test.Client.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\bin\Debug\Test.Client.pdb
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\obj\Debug\Test.Client.csprojResolveAssemblyReference.cache
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\obj\Debug\Test.Client.exe
+W:\Documents\Visual Studio 2013\Projects\TsunamiProxy\Test.Client\obj\Debug\Test.Client.pdb

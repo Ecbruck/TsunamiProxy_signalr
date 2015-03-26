@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Client", "Test.Client\Test.Client.csproj", "{63590151-447A-4D0F-8480-94F1C8F26FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.Task", "Learn.Task\Learn.Task.csproj", "{EB2D43BD-76F7-4277-9530-98DD8276AD39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiProxy.Client", "TsunamiProxy.Client\TsunamiProxy.Client.csproj", "{CE0C1239-BE36-4346-8D02-18CDBBC0DFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiProxy.Server", "TsunamiProxy.Server\TsunamiProxy.Server.csproj", "{579C05BC-079F-482A-BB86-8F5C975409DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiProxy.Cloud", "TsunamiProxy.Cloud\TsunamiProxy.Cloud.csproj", "{DD6E09BC-8A04-4ACD-8E96-8D2E9DAD909F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiProxy.Monitor", "TsunamiProxy.Monitor\TsunamiProxy.Monitor.csproj", "{BCC1BEB7-E8A5-498A-89A4-72720AD8473F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63590151-447A-4D0F-8480-94F1C8F26FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63590151-447A-4D0F-8480-94F1C8F26FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63590151-447A-4D0F-8480-94F1C8F26FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63590151-447A-4D0F-8480-94F1C8F26FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2D43BD-76F7-4277-9530-98DD8276AD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2D43BD-76F7-4277-9530-98DD8276AD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2D43BD-76F7-4277-9530-98DD8276AD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2D43BD-76F7-4277-9530-98DD8276AD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0C1239-BE36-4346-8D02-18CDBBC0DFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0C1239-BE36-4346-8D02-18CDBBC0DFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0C1239-BE36-4346-8D02-18CDBBC0DFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0C1239-BE36-4346-8D02-18CDBBC0DFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579C05BC-079F-482A-BB86-8F5C975409DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579C05BC-079F-482A-BB86-8F5C975409DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579C05BC-079F-482A-BB86-8F5C975409DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579C05BC-079F-482A-BB86-8F5C975409DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6E09BC-8A04-4ACD-8E96-8D2E9DAD909F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6E09BC-8A04-4ACD-8E96-8D2E9DAD909F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6E09BC-8A04-4ACD-8E96-8D2E9DAD909F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6E09BC-8A04-4ACD-8E96-8D2E9DAD909F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC1BEB7-E8A5-498A-89A4-72720AD8473F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC1BEB7-E8A5-498A-89A4-72720AD8473F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC1BEB7-E8A5-498A-89A4-72720AD8473F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC1BEB7-E8A5-498A-89A4-72720AD8473F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
